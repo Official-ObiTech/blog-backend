@@ -27,7 +27,7 @@ export default function App({
             <main>
               <Aos>
                 <Component {...pageProps} />
-                <Component {...pageProps} />
+              
                
                
               
