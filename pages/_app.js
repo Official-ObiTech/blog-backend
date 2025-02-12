@@ -27,18 +27,6 @@ export default function App({
             <main>
               <Aos>
                 <Component {...pageProps} />
-              
-               
-               
-              
-               
-              
-                
-              
-                
-               
-             
-             
               </Aos>
             </main>
           </>
